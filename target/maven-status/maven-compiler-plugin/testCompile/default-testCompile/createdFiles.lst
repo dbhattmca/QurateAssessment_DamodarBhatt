@@ -1,0 +1,8 @@
+com\tests\E2Eest.class
+com\tests\BaseAPITest.class
+com\test\BaseTest.class
+com\tests\ProductDetailsTest.class
+com\tests\HomeTest.class
+com\tests\ProductListingTest.class
+com\tests\APITests.class
+com\tests\AuthTest.class

@@ -1,0 +1,1 @@
+{"uuid":"ab392288-1a4e-4e0f-8df4-ce3cb5463610","name":"com.tests.HomeTest","children":["99b570cc-832c-43c2-9044-ad0956f5d7c8"],"befores":[],"afters":[{"name":"sendmail","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1612361669190,"stop":1612361670747}],"links":[],"start":1612361656613,"stop":1612361670760}
