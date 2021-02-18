@@ -1,0 +1,26 @@
+2021-13-14 17:13:47.289 [main] INFO  com.utils.Log - Chrome Browser Config Found
+2021-14-14 17:14:08.985 [main] INFO  com.utils.Log - Logo Foundtrue
+2021-14-14 17:14:09.069 [main] INFO  com.utils.Log - Cart is(empty)
+2021-14-14 17:14:09.314 [main] INFO  com.utils.Log - Logo FoundLog in to your customer account
+2021-14-14 17:14:09.495 [main] INFO  com.utils.Log - Actutal item in Menu[WOMEN, DRESSES, T-SHIRTS]
+2021-14-14 17:14:09.505 [main] INFO  com.utils.Log - Stopping the WebDriver
+2021-14-14 17:14:10.131 [main] INFO  com.utils.Log - Chrome Browser Config Found
+2021-14-14 17:14:41.328 [main] INFO  com.utils.Log - Actutal item in List[WOMEN, DRESSES, T-SHIRTS]
+2021-14-14 17:14:41.348 [main] INFO  com.utils.Log - Comapare containsCompare
+2021-14-14 17:14:41.350 [main] INFO  com.utils.Log - Stopping the WebDriver
+2021-14-14 17:14:41.970 [main] INFO  com.utils.Log - Chrome Browser Config Found
+2021-15-14 17:15:14.388 [main] INFO  com.utils.Log - Stopping the WebDriver
+2021-15-14 17:15:15.013 [main] INFO  com.utils.Log - Chrome Browser Config Found
+2021-15-14 17:15:58.118 [main] INFO  com.utils.Log - Stopping the WebDriver
+2021-30-14 19:30:16.034 [main] INFO  com.utils.Log - Chrome Browser Config Found
+2021-30-14 19:30:36.346 [main] INFO  com.utils.Log - Logo Foundtrue
+2021-30-14 19:30:36.418 [main] INFO  com.utils.Log - Cart is(empty)
+2021-30-14 19:30:36.658 [main] INFO  com.utils.Log - Logo FoundLog in to your customer account
+2021-30-14 19:30:36.834 [main] INFO  com.utils.Log - Actutal item in Menu[WOMEN, DRESSES, T-SHIRTS]
+2021-30-14 19:30:36.843 [main] INFO  com.utils.Log - Stopping the WebDriver
+2021-30-14 19:30:37.466 [main] INFO  com.utils.Log - Chrome Browser Config Found
+2021-31-14 19:31:23.505 [main] INFO  com.utils.Log - Stopping the WebDriver
+2021-31-14 19:31:24.124 [main] INFO  com.utils.Log - Chrome Browser Config Found
+2021-31-14 19:31:49.546 [main] INFO  com.utils.Log - Stopping the WebDriver
+2021-31-14 19:31:50.161 [main] INFO  com.utils.Log - Chrome Browser Config Found
+2021-32-14 19:32:27.302 [main] INFO  com.utils.Log - Stopping the WebDriver

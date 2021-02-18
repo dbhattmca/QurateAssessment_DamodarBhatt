@@ -1,0 +1,1 @@
+{"uuid":"a8ef944e-9ac3-414e-a0de-7f7f554b809f","name":"com.tests.E2Eest","children":["ba4b221a-950a-40c8-8ed8-c3fc196e1630"],"befores":[],"afters":[{"name":"sendmail","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1612443399392,"stop":1612443399392}],"links":[],"start":1612443381210,"stop":1612443399414}

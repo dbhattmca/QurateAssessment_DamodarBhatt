@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-02-17T20:18:04 IST" name="Default suite" finished-at="2021-02-17T20:18:10 IST" duration-ms="6191">
+    <groups>
+    </groups>
+    <test started-at="2021-02-17T20:18:04 IST" name="Default test" finished-at="2021-02-17T20:18:10 IST" duration-ms="6191">
+      <class name="com.tests.WebTableTest">
+        <test-method signature="datadriver()[pri:0, instance:com.tests.WebTableTest@31cb96e1]" started-at="2021-02-17T20:18:04 IST" name="datadriver" finished-at="2021-02-17T20:18:10 IST" duration-ms="5995" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- datadriver -->
+      </class> <!-- com.tests.WebTableTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
